@@ -1,6 +1,8 @@
 # 머신러닝/딥러닝
 ---
 
+* automl
+  - automl 라이브러리 관련 자료
 * basic deep-learning
   - deep-learning 기초 및 kears, tensorflow
 * data analysis
