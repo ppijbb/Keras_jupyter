@@ -13,5 +13,7 @@
   - 이미지 처리
 * python basic
   - 파이썬 및 기타 코드 작성 기초
+* reinforcement-learning
+  - 강화학습 관련 노트북
 * signalprocess
   - 인공지능 신호처리 기초
