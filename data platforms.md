@@ -68,3 +68,5 @@
 [KDX한국데이터거래소](https://kdx.kr/main) : KDX한국 데이터 거래소에서 운영하는 데이터 유통 플랫폼 
 
 [Roboflow](https://universe.roboflow.com/) :  CV용 이미지와 pretrained model api 저장소 
+
+[WISDM](https://www.cis.fordham.edu/wisdm/dataset.php) : 무선 센서 데이터 마이닝 연구소 
