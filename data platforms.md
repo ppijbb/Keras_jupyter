@@ -70,3 +70,5 @@
 [Roboflow](https://universe.roboflow.com/) :  CV용 이미지와 pretrained model api 저장소 
 
 [WISDM](https://www.cis.fordham.edu/wisdm/dataset.php) : 무선 센서 데이터 마이닝 연구소 
+
+[통신빅데이터플랫폼](https://www.bigdata-telecom.kr/invoke/SOKBP2602/) : 통신 빅데이터 플랫폼
